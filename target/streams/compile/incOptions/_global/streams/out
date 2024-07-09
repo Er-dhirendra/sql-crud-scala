@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dhirendrakashyap/Projects/sql-crud-scala/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dhirendrakashyap/Projects/sql-crud-scala/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataBaseComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonComponent$Persons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySqlDataBaseComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/dhirendrakashyap/Projects/sql-crud-scala/target/scala-2.13/classes.bak[0m
